@@ -1,0 +1,3 @@
+D:/clionfiles/by2.0/cmake-build-debug/CMakeFiles/by2.0.elf.dir
+D:/clionfiles/by2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clionfiles/by2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
